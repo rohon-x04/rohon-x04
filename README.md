@@ -149,7 +149,7 @@ class Rohan:
 class Sudeep:
     def __init__(self):
         self.role       = "Backend Engineer & Distributed Systems Builder"
-        self.location   = "Delhi, India 🇮🇳"
+        self.location   = "West Bengal, India 🇮🇳"
         self.languages  = ["Go", "Python", "JavaScript", "SQL", "Bash"]
         self.focus      = ["High-Throughput Streaming", "MTProto Engines",
                            "Reverse Engineering"]

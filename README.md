@@ -61,7 +61,7 @@
 <h2 align="center">🎬 MY VIDEO</h2>
 
 <p align="center">
-  <video src="https://github.com/rohon-x04/rohon-x04/raw/main/assets/intro.mp4" width="300" controls muted></video>
+  <video src="https://github.com/rohon-x04/rohon-x04/blob/main/assets/intro.mp4" width="300" controls muted></video>
 </p>
 
 ---

@@ -204,16 +204,16 @@ class Rohan:
 <br/>
 
 ```python
-class Sudeep:
+class roh4n:
     def __init__(self):
-        self.role       = "Backend Engineer & Distributed Systems Builder"
-        self.location   = "Delhi, India 🇮🇳"
+        self.role       = "NOT A PROFESSIONAL CODER"
+        self.location   = "wb, India 🇮🇳"
         self.languages  = ["Go", "Python", "JavaScript", "SQL", "Bash"]
         self.focus      = ["High-Throughput Streaming", "MTProto Engines",
                            "Reverse Engineering"]
-        self.core_stack = ["Go", "FastAPI", "Pyrogram", "PostgreSQL",
+        self.core_stack = [ "RUNAKAPI", "Pyrogram",
                            "Redis", "Cloudflare Workers", "Docker"]
-        self.uptime     = "99.9% across production microservices"
+
 
     def current_mission(self):
         return (
